@@ -1,0 +1,254 @@
+[
+  {
+    "termo": "Fluxo de Caixa",
+    "categoria": "Finanças",
+    "definicao": "Controle da entrada e saída de dinheiro na empresa.",
+    "exemplo": "Receitas e despesas mensais organizadas em planilha.",
+    "relacionados": ["Orçamento", "Receita", "Despesa"]
+  },
+  {
+    "termo": "Reserva de Emergência",
+    "categoria": "Finanças Pessoais",
+    "definicao": "Montante guardado para cobrir imprevistos.",
+    "exemplo": "Poupança de R$5.000,00 para situações de urgência.",
+    "relacionados": ["Investimento", "Segurança Financeira"]
+  },
+  {
+    "termo": "Patrimônio",
+    "categoria": "Contabilidade",
+    "definicao": "Conjunto de bens, direitos e obrigações de uma empresa.",
+    "exemplo": "Imóveis, veículos, contas a pagar e a receber.",
+    "relacionados": ["Ativo", "Passivo", "Patrimônio Líquido"]
+  },
+  {
+    "termo": "Ativo",
+    "categoria": "Contabilidade",
+    "definicao": "Bens e direitos de uma empresa.",
+    "exemplo": "Dinheiro em caixa, imóveis, estoques.",
+    "relacionados": ["Patrimônio", "Passivo"]
+  },
+  {
+    "termo": "Passivo",
+    "categoria": "Contabilidade",
+    "definicao": "Obrigações e dívidas da empresa.",
+    "exemplo": "Empréstimos bancários, contas a pagar.",
+    "relacionados": ["Patrimônio", "Ativo"]
+  },
+  {
+    "termo": "Patrimônio Líquido",
+    "categoria": "Contabilidade",
+    "definicao": "Diferença entre ativos e passivos; representa o valor líquido da empresa.",
+    "exemplo": "Capital social, lucros acumulados.",
+    "relacionados": ["Ativo", "Passivo"]
+  },
+  {
+    "termo": "Demonstração do Resultado do Exercício (DRE)",
+    "categoria": "Contabilidade",
+    "definicao": "Relatório que demonstra se a empresa obteve lucro ou prejuízo em um período específico.",
+    "exemplo": "Apresenta receitas, custos, despesas e impostos.",
+    "relacionados": ["Balanço Patrimonial", "Lucro Líquido"]
+  },
+  {
+    "termo": "Fluxo de Caixa",
+    "categoria": "Finanças",
+    "definicao": "Registro das entradas e saídas financeiras de uma empresa em um determinado período.",
+    "exemplo": "Controle de contas a pagar e a receber.",
+    "relacionados": ["Capital de Giro", "Liquidez"]
+  },
+  {
+    "termo": "Contas a Pagar",
+    "categoria": "Finanças",
+    "definicao": "Obrigações financeiras da empresa, como aluguel, fornecedores, salários.",
+    "exemplo": "Pagamentos de fornecedores e funcionários.",
+    "relacionados": ["Contas a Receber", "Fluxo de Caixa"]
+  },
+  {
+    "termo": "Contas a Receber",
+    "categoria": "Finanças",
+    "definicao": "Valores que a empresa tem a receber de seus clientes.",
+    "exemplo": "Vendas a prazo ou serviços prestados.",
+    "relacionados": ["Contas a Pagar", "Fluxo de Caixa"]
+  },
+  {
+    "termo": "Contabilidade Gerencial",
+    "categoria": "Contabilidade",
+    "definicao": "Processo de coleta, análise e interpretação de informações financeiras e não financeiras para auxiliar na tomada de decisões.",
+    "exemplo": "Análise de custo-benefício, planejamento orçamentário.",
+    "relacionados": ["Contabilidade Financeira", "Gestão Empresarial"]
+  },
+  {
+    "termo": "Gestão Empresarial",
+    "categoria": "Administração",
+    "definicao": "Processo de coordenar e organizar operações e atividades comerciais para atingir objetivos empresariais.",
+    "exemplo": "Planejamento estratégico, gestão de equipes.",
+    "relacionados": ["Administração de Empresas", "Gestão de Pessoas"]
+  },
+  {
+    "termo": "Administração de Empresas",
+    "categoria": "Administração",
+    "definicao": "Gestão de um negócio, incluindo aspectos como contabilidade, finanças e marketing.",
+    "exemplo": "Supervisão de operações e tomada de decisões estratégicas.",
+    "relacionados": ["Gestão Empresarial", "Administração Pública"]
+  },
+  {
+    "termo": "Governança Corporativa",
+    "categoria": "Administração",
+    "definicao": "Conjunto de processos, políticas e regulamentos que regulam como uma empresa é dirigida e controlada.",
+    "exemplo": "Relações entre acionistas, alta administração e conselho de administração.",
+    "relacionados": ["Gestão Empresarial", "Compliance"]
+  },
+  {
+    "termo": "Administração Holística",
+    "categoria": "Gestão Avançada",
+    "definicao": "Enfoque que considera a organização como um sistema integrado, onde todos os processos e departamentos estão interconectados, visando o equilíbrio e a harmonia organizacional.",
+    "exemplo": "Uma empresa que adota práticas sustentáveis em todas as suas operações, desde a produção até a gestão de pessoas.",
+    "relacionados": ["Gestão Sistêmica", "Gestão Participativa"]
+  },
+  {
+    "termo": "Gestão Sistêmica",
+    "categoria": "Gestão Avançada",
+    "definicao": "Abordagem que integra todas as áreas da empresa, assegurando o cumprimento de prazos, manutenção da qualidade e competitividade, com visão de futuro.",
+    "exemplo": "Uma organização que alinha suas estratégias de marketing, produção e recursos humanos para alcançar objetivos comuns.",
+    "relacionados": ["Administração Holística", "Gestão por Processos"]
+  },
+  {
+    "termo": "Gestão Participativa",
+    "categoria": "Gestão Avançada",
+    "definicao": "Modelo de gestão que enfatiza a participação ativa de todos os membros da organização no processo decisório, promovendo o comprometimento e a colaboração.",
+    "exemplo": "Uma empresa que realiza reuniões periódicas com colaboradores para discutir melhorias nos processos internos.",
+    "relacionados": ["Administração Holística", "Gestão por Competências"]
+  },
+  {
+    "termo": "Gestão por Competências",
+    "categoria": "Gestão Avançada",
+    "definicao": "Sistema que identifica e desenvolve as competências necessárias para alcançar os objetivos organizacionais, alinhando as habilidades dos colaboradores às necessidades da empresa.",
+    "exemplo": "Uma organização que oferece treinamentos específicos para desenvolver as competências técnicas e comportamentais de sua equipe.",
+    "relacionados": ["Gestão Participativa", "Gestão do Conhecimento"]
+  },
+  {
+    "termo": "Inteligência Organizacional",
+    "categoria": "Gestão Avançada",
+    "definicao": "Capacidade coletiva da organização de identificar oportunidades de melhoria, conceber e implementar soluções inovadoras, utilizando recursos intelectuais, materiais e financeiros.",
+    "exemplo": "Uma empresa que promove a troca de ideias entre departamentos para desenvolver novos produtos ou melhorar processos existentes.",
+    "relacionados": ["Gestão do Conhecimento", "Inovação Organizacional"]
+  },
+  {
+    "termo": "Gestão Baseada em Custeio por Atividade",
+    "categoria": "Gestão Avançada",
+    "definicao": "Modelo que utiliza o Custeio por Atividade (ABC) para gerenciar a organização e a produção, focando na identificação e eliminação de atividades que não agregam valor.",
+    "exemplo": "Uma empresa que analisa suas atividades para identificar processos que consomem recursos sem gerar valor, visando a redução de custos.",
+    "relacionados": ["Custeio por Atividade", "Gestão de Custos"]
+  },
+  {
+    "termo": "Excelência de Gestão",
+    "categoria": "Gestão Avançada",
+    "definicao": "Busca incessante por aprimoramento em todos os processos, serviços e produtos da empresa, visando alcançar padrões elevados de desempenho, eficiência e qualidade.",
+    "exemplo": "Uma organização que implementa o Ciclo PDCA e o Six Sigma para melhorar continuamente seus processos.",
+    "relacionados": ["Gestão da Qualidade Total", "Melhoria Contínua"]
+  },
+  {
+    "termo": "Gestão por Processos",
+    "categoria": "Gestão Avançada",
+    "definicao": "Abordagem que busca o alinhamento entre as diferentes áreas da empresa, garantindo que todos os processos funcionem de maneira integrada e eficiente.",
+    "exemplo": "Uma empresa que mapeia e documenta seus processos para identificar e eliminar gargalos operacionais.",
+    "relacionados": ["Gestão da Qualidade", "Gestão por Resultados"]
+  },
+  {
+    "termo": "Gestão por Resultados",
+    "categoria": "Gestão Avançada",
+    "definicao": "Modelo que foca na obtenção de resultados específicos e mensuráveis, orientando as ações da organização para o alcance de objetivos estratégicos.",
+    "exemplo": "Uma organização que define metas claras e utiliza indicadores de desempenho para monitorar o progresso.",
+    "relacionados": ["Gestão por Processos", "Gestão Estratégica"]
+  },
+  {
+    "termo": "Gestão Estratégica",
+    "categoria": "Gestão Avançada",
+    "definicao": "Processo de formulação e implementação de estratégias que visam posicionar a organização de maneira competitiva no mercado.",
+    "exemplo": "Uma empresa que realiza análises SWOT para identificar oportunidades e ameaças, definindo estratégias para aproveitar suas forças.",
+    "relacionados": ["Planejamento Estratégico", "Gestão da Inovação"]
+  },
+    {
+      "termo": "Fluxo de Caixa",
+      "categoria": "Controle Financeiro",
+      "definicao": "Registro detalhado de todas as entradas e saídas de dinheiro de uma empresa ou pessoa durante um determinado período.",
+      "exemplo": "Anotar todas as receitas de vendas e despesas como aluguel e salários para controlar o saldo disponível.",
+      "relacionados": ["Controle Orçamentário", "Capital de Giro"]
+    },
+    {
+      "termo": "Orçamento",
+      "categoria": "Controle Financeiro",
+      "definicao": "Planejamento financeiro que estima receitas e despesas futuras para garantir equilíbrio financeiro.",
+      "exemplo": "Definir quanto será gasto mensalmente em marketing para não ultrapassar o limite financeiro.",
+      "relacionados": ["Fluxo de Caixa", "Gestão de Custos"]
+    },
+    {
+      "termo": "Reserva de Emergência",
+      "categoria": "Controle Financeiro",
+      "definicao": "Montante de dinheiro guardado para cobrir despesas imprevistas ou situações de crise.",
+      "exemplo": "Guardar dinheiro suficiente para cobrir 6 meses de despesas pessoais em caso de perda de emprego.",
+      "relacionados": ["Fluxo de Caixa", "Planejamento Financeiro"]
+    },
+    {
+      "termo": "Investimento",
+      "categoria": "Investimentos",
+      "definicao": "Aplicação de recursos financeiros com o objetivo de obter retorno futuro, seja por valorização ou rendimento.",
+      "exemplo": "Comprar ações de empresas que pagam dividendos regulares.",
+      "relacionados": ["Risco", "Rentabilidade"]
+    },
+    {
+      "termo": "Diversificação",
+      "categoria": "Investimentos",
+      "definicao": "Estratégia que consiste em distribuir investimentos entre diferentes ativos para reduzir riscos.",
+      "exemplo": "Investir parte do dinheiro em ações, outra parte em imóveis e uma em renda fixa.",
+      "relacionados": ["Investimento", "Gestão de Riscos"]
+    },
+    {
+      "termo": "Risco",
+      "categoria": "Investimentos",
+      "definicao": "Possibilidade de perda financeira ou de retorno menor que o esperado em um investimento.",
+      "exemplo": "Investir em ações de empresas novas pode trazer alto risco devido à volatilidade do mercado.",
+      "relacionados": ["Investimento", "Rentabilidade"]
+    },
+    {
+      "termo": "Rentabilidade",
+      "categoria": "Investimentos",
+      "definicao": "Ganho financeiro obtido em relação ao valor investido, geralmente expresso em percentual.",
+      "exemplo": "Um investimento que rende 10% ao ano tem maior rentabilidade do que outro que rende 5%.",
+      "relacionados": ["Investimento", "Risco"]
+    },
+    {
+      "termo": "Plano de Negócios",
+      "categoria": "Estratégias de Negócios",
+      "definicao": "Documento que descreve objetivos, estratégias, público-alvo, análise de mercado e projeções financeiras de um negócio.",
+      "exemplo": "Antes de abrir uma loja, criar um plano de negócios para definir público, fornecedores e metas financeiras.",
+      "relacionados": ["Estratégia Empresarial", "Análise SWOT"]
+    },
+    {
+      "termo": "Análise SWOT",
+      "categoria": "Estratégias de Negócios",
+      "definicao": "Método que avalia forças (Strengths), fraquezas (Weaknesses), oportunidades (Opportunities) e ameaças (Threats) de um negócio.",
+      "exemplo": "Identificar que a força é a qualidade do produto e a ameaça é a concorrência crescente.",
+      "relacionados": ["Plano de Negócios", "Estratégia Empresarial"]
+    },
+    {
+      "termo": "Estratégia Competitiva",
+      "categoria": "Estratégias de Negócios",
+      "definicao": "Conjunto de ações que a empresa utiliza para ganhar vantagem no mercado frente aos concorrentes.",
+      "exemplo": "Reduzir preços para atrair clientes ou focar em produtos de alta qualidade para nichos específicos.",
+      "relacionados": ["Plano de Negócios", "Análise SWOT"]
+    },
+    {
+      "termo": "Capital de Giro",
+      "categoria": "Controle Financeiro",
+      "definicao": "Recursos necessários para manter as operações diárias da empresa, como pagamento de fornecedores e funcionários.",
+      "exemplo": "Dinheiro disponível para comprar matéria-prima e pagar contas enquanto vendas são processadas.",
+      "relacionados": ["Fluxo de Caixa", "Orçamento"]
+    },
+    {
+      "termo": "Indicadores Financeiros",
+      "categoria": "Controle Financeiro",
+      "definicao": "Métricas utilizadas para avaliar a saúde financeira de uma empresa, como liquidez, rentabilidade e endividamento.",
+      "exemplo": "Índice de liquidez corrente que mostra se a empresa pode pagar suas dívidas de curto prazo.",
+      "relacionados": ["Fluxo de Caixa", "Orçamento"]
+    }
+  ]

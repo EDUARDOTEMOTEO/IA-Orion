@@ -1,0 +1,1182 @@
+[
+  {
+    "termo": "Fluxo de Caixa",
+    "categoria": "Finanças",
+    "definicao": "Controle da entrada e saída de dinheiro na empresa.",
+    "exemplo": "Receitas e despesas mensais organizadas em planilha.",
+    "relacionados": [
+      "Orçamento",
+      "Receita",
+      "Despesa"
+    ]
+  },
+  {
+    "termo": "Reserva de Emergência",
+    "categoria": "Finanças Pessoais",
+    "definicao": "Montante guardado para cobrir imprevistos.",
+    "exemplo": "Poupança de R$5.000,00 para situações de urgência.",
+    "relacionados": [
+      "Investimento",
+      "Segurança Financeira"
+    ]
+  },
+  {
+    "termo": "Patrimônio",
+    "categoria": "Contabilidade",
+    "definicao": "Conjunto de bens, direitos e obrigações de uma empresa.",
+    "exemplo": "Imóveis, veículos, contas a pagar e a receber.",
+    "relacionados": [
+      "Ativo",
+      "Passivo",
+      "Patrimônio Líquido"
+    ]
+  },
+  {
+    "termo": "Ativo",
+    "categoria": "Contabilidade",
+    "definicao": "Bens e direitos de uma empresa.",
+    "exemplo": "Dinheiro em caixa, imóveis, estoques.",
+    "relacionados": ["Patrimônio","Passivo" ]
+  },
+  {
+    "termo": "Passivo",
+    "categoria": "Contabilidade",
+    "definicao": "Obrigações e dívidas da empresa.",
+    "exemplo": "Empréstimos bancários, contas a pagar.",
+    "relacionados": [
+      "Patrimônio",
+      "Ativo"
+    ]
+  },
+  {
+    "termo": "Patrimônio Líquido",
+    "categoria": "Contabilidade",
+    "definicao": "Diferença entre ativos e passivos; representa o valor líquido da empresa.",
+    "exemplo": "Capital social, lucros acumulados.",
+    "relacionados": [
+      "Ativo",
+      "Passivo"
+    ]
+  },
+  {
+    "termo": "Demonstração do Resultado do Exercício (DRE)",
+    "categoria": "Contabilidade",
+    "definicao": "Relatório que demonstra se a empresa obteve lucro ou prejuízo em um período específico.",
+    "exemplo": "Apresenta receitas, custos, despesas e impostos.",
+    "relacionados": [
+      "Balanço Patrimonial",
+      "Lucro Líquido"
+    ]
+  },
+  {
+    "termo": "Contas a Pagar",
+    "categoria": "Finanças",
+    "definicao": "Obrigações financeiras da empresa, como aluguel, fornecedores, salários.",
+    "exemplo": "Pagamentos de fornecedores e funcionários.",
+    "relacionados": [
+      "Contas a Receber",
+      "Fluxo de Caixa"
+    ]
+  },
+  {
+    "termo": "Contas a Receber",
+    "categoria": "Finanças",
+    "definicao": "Valores que a empresa tem a receber de seus clientes.",
+    "exemplo": "Vendas a prazo ou serviços prestados.",
+    "relacionados": [
+      "Contas a Pagar",
+      "Fluxo de Caixa"
+    ]
+  },
+  {
+    "termo": "Contabilidade Gerencial",
+    "categoria": "Contabilidade",
+    "definicao": "Processo de coleta, análise e interpretação de informações financeiras e não financeiras para auxiliar na tomada de decisões.",
+    "exemplo": "Análise de custo-benefício, planejamento orçamentário.",
+    "relacionados": [
+      "Contabilidade Financeira",
+      "Gestão Empresarial"
+    ]
+  },
+  {
+    "termo": "Gestão Empresarial",
+    "categoria": "Administração",
+    "definicao": "Processo de coordenar e organizar operações e atividades comerciais para atingir objetivos empresariais.",
+    "exemplo": "Planejamento estratégico, gestão de equipes.",
+    "relacionados": [
+      "Administração de Empresas",
+      "Gestão de Pessoas"
+    ]
+  },
+  {
+    "termo": "Administração de Empresas",
+    "categoria": "Administração",
+    "definicao": "Gestão de um negócio, incluindo aspectos como contabilidade, finanças e marketing.",
+    "exemplo": "Supervisão de operações e tomada de decisões estratégicas.",
+    "relacionados": [
+      "Gestão Empresarial",
+      "Administração Pública"
+    ]
+  },
+  {
+    "termo": "Governança Corporativa",
+    "categoria": "Administração",
+    "definicao": "Conjunto de processos, políticas e regulamentos que regulam como uma empresa é dirigida e controlada.",
+    "exemplo": "Relações entre acionistas, alta administração e conselho de administração.",
+    "relacionados": [
+      "Gestão Empresarial",
+      "Compliance"
+    ]
+  },
+  {
+    "termo": "Administração Holística",
+    "categoria": "Gestão Avançada",
+    "definicao": "Enfoque que considera a organização como um sistema integrado, onde todos os processos e departamentos estão interconectados, visando o equilíbrio e a harmonia organizacional.",
+    "exemplo": "Uma empresa que adota práticas sustentáveis em todas as suas operações, desde a produção até a gestão de pessoas.",
+    "relacionados": [
+      "Gestão Sistêmica",
+      "Gestão Participativa"
+    ]
+  },
+  {
+    "termo": "Gestão Sistêmica",
+    "categoria": "Gestão Avançada",
+    "definicao": "Abordagem que integra todas as áreas da empresa, assegurando o cumprimento de prazos, manutenção da qualidade e competitividade, com visão de futuro.",
+    "exemplo": "Uma organização que alinha suas estratégias de marketing, produção e recursos humanos para alcançar objetivos comuns.",
+    "relacionados": [
+      "Administração Holística",
+      "Gestão por Processos"
+    ]
+  },
+  {
+    "termo": "Gestão Participativa",
+    "categoria": "Gestão Avançada",
+    "definicao": "Modelo de gestão que enfatiza a participação ativa de todos os membros da organização no processo decisório, promovendo o comprometimento e a colaboração.",
+    "exemplo": "Uma empresa que realiza reuniões periódicas com colaboradores para discutir melhorias nos processos internos.",
+    "relacionados": [
+      "Administração Holística",
+      "Gestão por Competências"
+    ]
+  },
+  {
+    "termo": "Gestão por Competências",
+    "categoria": "Gestão Avançada",
+    "definicao": "Sistema que identifica e desenvolve as competências necessárias para alcançar os objetivos organizacionais, alinhando as habilidades dos colaboradores às necessidades da empresa.",
+    "exemplo": "Uma organização que oferece treinamentos específicos para desenvolver as competências técnicas e comportamentais de sua equipe.",
+    "relacionados": [
+      "Gestão Participativa",
+      "Gestão do Conhecimento"
+    ]
+  },
+  {
+    "termo": "Inteligência Organizacional",
+    "categoria": "Gestão Avançada",
+    "definicao": "Capacidade coletiva da organização de identificar oportunidades de melhoria, conceber e implementar soluções inovadoras, utilizando recursos intelectuais, materiais e financeiros.",
+    "exemplo": "Uma empresa que promove a troca de ideias entre departamentos para desenvolver novos produtos ou melhorar processos existentes.",
+    "relacionados": [
+      "Gestão do Conhecimento",
+      "Inovação Organizacional"
+    ]
+  },
+  {
+    "termo": "Gestão Baseada em Custeio por Atividade",
+    "categoria": "Gestão Avançada",
+    "definicao": "Modelo que utiliza o Custeio por Atividade (ABC) para gerenciar a organização e a produção, focando na identificação e eliminação de atividades que não agregam valor.",
+    "exemplo": "Uma empresa que analisa suas atividades para identificar processos que consomem recursos sem gerar valor, visando a redução de custos.",
+    "relacionados": [
+      "Custeio por Atividade",
+      "Gestão de Custos"
+    ]
+  },
+  {
+    "termo": "Excelência de Gestão",
+    "categoria": "Gestão Avançada",
+    "definicao": "Busca incessante por aprimoramento em todos os processos, serviços e produtos da empresa, visando alcançar padrões elevados de desempenho, eficiência e qualidade.",
+    "exemplo": "Uma organização que implementa o Ciclo PDCA e o Six Sigma para melhorar continuamente seus processos.",
+    "relacionados": [
+      "Gestão da Qualidade Total",
+      "Melhoria Contínua"
+    ]
+  },
+  {
+    "termo": "Gestão por Processos",
+    "categoria": "Gestão Avançada",
+    "definicao": "Abordagem que busca o alinhamento entre as diferentes áreas da empresa, garantindo que todos os processos funcionem de maneira integrada e eficiente.",
+    "exemplo": "Uma empresa que mapeia e documenta seus processos para identificar e eliminar gargalos operacionais.",
+    "relacionados": [
+      "Gestão da Qualidade",
+      "Gestão por Resultados"
+    ]
+  },
+  {
+    "termo": "Gestão por Resultados",
+    "categoria": "Gestão Avançada",
+    "definicao": "Modelo que foca na obtenção de resultados específicos e mensuráveis, orientando as ações da organização para o alcance de objetivos estratégicos.",
+    "exemplo": "Uma organização que define metas claras e utiliza indicadores de desempenho para monitorar o progresso.",
+    "relacionados": [
+      "Gestão por Processos",
+      "Gestão Estratégica"
+    ]
+  },
+  {
+    "termo": "Gestão Estratégica",
+    "categoria": "Gestão Avançada",
+    "definicao": "Processo de formulação e implementação de estratégias que visam posicionar a organização de maneira competitiva no mercado.",
+    "exemplo": "Uma empresa que realiza análises SWOT para identificar oportunidades e ameaças, definindo estratégias para aproveitar suas forças.",
+    "relacionados": [
+      "Planejamento Estratégico",
+      "Gestão da Inovação"
+    ]
+  },
+  {
+    "termo": "Orçamento",
+    "categoria": "Controle Financeiro",
+    "definicao": "Planejamento financeiro que estima receitas e despesas futuras para garantir equilíbrio financeiro.",
+    "exemplo": "Definir quanto será gasto mensalmente em marketing para não ultrapassar o limite financeiro.",
+    "relacionados": [
+      "Fluxo de Caixa",
+      "Gestão de Custos"
+    ]
+  },
+  {
+    "termo": "Investimento",
+    "categoria": "Investimentos",
+    "definicao": "Aplicação de recursos financeiros com o objetivo de obter retorno futuro, seja por valorização ou rendimento.",
+    "exemplo": "Comprar ações de empresas que pagam dividendos regulares.",
+    "relacionados": [
+      "Risco",
+      "Rentabilidade"
+    ]
+  },
+  {
+    "termo": "Diversificação",
+    "categoria": "Investimentos",
+    "definicao": "Estratégia que consiste em distribuir investimentos entre diferentes ativos para reduzir riscos.",
+    "exemplo": "Investir parte do dinheiro em ações, outra parte em imóveis e uma em renda fixa.",
+    "relacionados": [
+      "Investimento",
+      "Gestão de Riscos"
+    ]
+  },
+  {
+    "termo": "Risco",
+    "categoria": "Investimentos",
+    "definicao": "Possibilidade de perda financeira ou de retorno menor que o esperado em um investimento.",
+    "exemplo": "Investir em ações de empresas novas pode trazer alto risco devido à volatilidade do mercado.",
+    "relacionados": [
+      "Investimento",
+      "Rentabilidade"
+    ]
+  },
+  {
+    "termo": "Rentabilidade",
+    "categoria": "Investimentos",
+    "definicao": "Ganho financeiro obtido em relação ao valor investido, geralmente expresso em percentual.",
+    "exemplo": "Um investimento que rende 10% ao ano tem maior rentabilidade do que outro que rende 5%.",
+    "relacionados": [
+      "Investimento",
+      "Risco"
+    ]
+  },
+  {
+    "termo": "Plano de Negócios",
+    "categoria": "Estratégias de Negócios",
+    "definicao": "Documento que descreve objetivos, estratégias, público-alvo, análise de mercado e projeções financeiras de um negócio.",
+    "exemplo": "Antes de abrir uma loja, criar um plano de negócios para definir público, fornecedores e metas financeiras.",
+    "relacionados": [
+      "Estratégia Empresarial",
+      "Análise SWOT"
+    ]
+  },
+  {
+    "termo": "Análise SWOT",
+    "categoria": "Estratégias de Negócios",
+    "definicao": "Método que avalia forças (Strengths), fraquezas (Weaknesses), oportunidades (Opportunities) e ameaças (Threats) de um negócio.",
+    "exemplo": "Identificar que a força é a qualidade do produto e a ameaça é a concorrência crescente.",
+    "relacionados": [
+      "Plano de Negócios",
+      "Estratégia Empresarial"
+    ]
+  },
+  {
+    "termo": "Estratégia Competitiva",
+    "categoria": "Estratégias de Negócios",
+    "definicao": "Conjunto de ações que a empresa utiliza para ganhar vantagem no mercado frente aos concorrentes.",
+    "exemplo": "Reduzir preços para atrair clientes ou focar em produtos de alta qualidade para nichos específicos.",
+    "relacionados": [
+      "Plano de Negócios",
+      "Análise SWOT"
+    ]
+  },
+  {
+    "termo": "Capital de Giro",
+    "categoria": "Controle Financeiro",
+    "definicao": "Recursos necessários para manter as operações diárias da empresa, como pagamento de fornecedores e funcionários.",
+    "exemplo": "Dinheiro disponível para comprar matéria-prima e pagar contas enquanto vendas são processadas.",
+    "relacionados": [
+      "Fluxo de Caixa",
+      "Orçamento"
+    ]
+  },
+  {
+    "termo": "Indicadores Financeiros",
+    "categoria": "Controle Financeiro",
+    "definicao": "Métricas utilizadas para avaliar a saúde financeira de uma empresa, como liquidez, rentabilidade e endividamento.",
+    "exemplo": "Índice de liquidez corrente que mostra se a empresa pode pagar suas dívidas de curto prazo.",
+    "relacionados": [
+      "Fluxo de Caixa",
+      "Orçamento"
+    ]
+  },
+  {
+    "termo": "Internet",
+    "categoria": "Tecnologia",
+    "definicao": "Rede mundial de computadores que permite a comunicação e acesso a informações globalmente.",
+    "exemplo": "Usar um navegador para acessar sites e enviar emails.",
+    "relacionados": [
+      "Computador",
+      "Web"
+    ]
+  },
+  {
+    "termo": "Mudanças Climáticas",
+    "categoria": "Meio Ambiente",
+    "definicao": "Alterações no clima da Terra causadas principalmente pelas atividades humanas, como emissão de gases do efeito estufa.",
+    "exemplo": "Aumento da temperatura média global e eventos climáticos extremos.",
+    "relacionados": [
+      "Aquecimento Global",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "termo": "Democracia",
+    "categoria": "Política",
+    "definicao": "Sistema de governo onde o poder é exercido pelo povo, diretamente ou por meio de representantes eleitos.",
+    "exemplo": "Eleições livres para escolher o presidente ou vereadores.",
+    "relacionados": [
+      "Direitos Humanos",
+      "Eleições"
+    ]
+  },
+  {
+    "termo": "Saúde Pública",
+    "categoria": "Saúde",
+    "definicao": "Conjunto de ações organizadas para promover a saúde, prevenir doenças e garantir acesso a serviços de saúde para a população.",
+    "exemplo": "Campanhas de vacinação em massa para prevenir epidemias.",
+    "relacionados": [
+      "Epidemiologia",
+      "Vacinação"
+    ]
+  },
+  {
+    "termo": "Energia Renovável",
+    "categoria": "Meio Ambiente",
+    "definicao": "Fontes de energia que se renovam naturalmente e causam menos impacto ambiental, como solar, eólica e hidrelétrica.",
+    "exemplo": "Usar painéis solares para gerar eletricidade em casas.",
+    "relacionados": [
+      "Sustentabilidade",
+      "Energia"
+    ]
+  },
+  {
+    "termo": "Inteligência Artificial",
+    "categoria": "Tecnologia",
+    "definicao": "Área da computação que desenvolve sistemas capazes de realizar tarefas que normalmente requerem inteligência humana.",
+    "exemplo": "Assistentes virtuais, reconhecimento de voz e imagens.",
+    "relacionados": [
+      "Machine Learning",
+      "Redes Neurais"
+    ]
+  },
+  {
+    "termo": "Globalização",
+    "categoria": "Economia",
+    "definicao": "Processo de integração econômica, social e cultural entre países através do comércio, comunicação e tecnologia.",
+    "exemplo": "Empresas multinacionais atuando em vários países.",
+    "relacionados": [
+      "Comércio Internacional",
+      "Tecnologia"
+    ]
+  },
+  {
+    "termo": "Demografia",
+    "categoria": "Sociologia",
+    "definicao": "Estudo estatístico das populações, incluindo crescimento, distribuição, estrutura e tendências.",
+    "exemplo": "Análise do aumento da população urbana versus rural.",
+    "relacionados": [
+      "População",
+      "Migração"
+    ]
+  },
+  {
+    "termo": "Blockchain",
+    "categoria": "Tecnologia",
+    "definicao": "Tecnologia de registro distribuído que garante transparência e segurança em transações digitais.",
+    "exemplo": "Uso em criptomoedas como Bitcoin para registrar transações.",
+    "relacionados": [
+      "Criptomoeda",
+      "Segurança Digital"
+    ]
+  },
+  {
+    "termo": "Psicologia",
+    "categoria": "Ciência",
+    "definicao": "Estudo científico do comportamento e dos processos mentais humanos.",
+    "exemplo": "Pesquisa sobre como o estresse afeta a saúde mental.",
+    "relacionados": [
+      "Saúde Mental",
+      "Comportamento Humano"
+    ]
+  },
+  {
+    "termo": "Sustentabilidade",
+    "categoria": "Meio Ambiente",
+    "definicao": "Prática de utilizar recursos naturais de forma a garantir sua disponibilidade para as futuras gerações.",
+    "exemplo": "Reduzir o consumo de plástico e usar energias renováveis.",
+    "relacionados": [
+      "Meio Ambiente",
+      "Energia Renovável"
+    ]
+  },
+  {
+    "termo": "Economia Circular",
+    "categoria": "Economia",
+    "definicao": "Modelo econômico que busca minimizar o desperdício e reutilizar recursos continuamente.",
+    "exemplo": "Reciclagem de materiais e reaproveitamento de resíduos industriais.",
+    "relacionados": [
+      "Sustentabilidade",
+      "Reciclagem"
+    ]
+  },
+  {
+    "termo": "Big Data",
+    "categoria": "Tecnologia",
+    "definicao": "Conjunto de técnicas e ferramentas para coletar, armazenar e analisar grandes volumes de dados.",
+    "exemplo": "Análise de dados de redes sociais para entender tendências de consumo.",
+    "relacionados": [
+      "Machine Learning",
+      "Data Science"
+    ]
+  },
+  {
+    "termo": "Machine Learning",
+    "categoria": "Tecnologia",
+    "definicao": "Ramo da inteligência artificial que permite que sistemas aprendam automaticamente a partir de dados.",
+    "exemplo": "Sistemas que recomendam filmes com base no histórico do usuário.",
+    "relacionados": [
+      "Inteligência Artificial",
+      "Big Data"
+    ]
+  },
+  {
+    "termo": "Criptomoeda",
+    "categoria": "Economia",
+    "definicao": "Moeda digital baseada em criptografia para garantir transações seguras e independência de bancos centrais.",
+    "exemplo": "Bitcoin, Ethereum e outras moedas digitais.",
+    "relacionados": [
+      "Blockchain",
+      "Tecnologia"
+    ]
+  },
+  {
+    "termo": "Mudanças Demográficas",
+    "categoria": "Sociologia",
+    "definicao": "Alterações na estrutura da população, como envelhecimento, migração e taxas de natalidade.",
+    "exemplo": "Envelhecimento da população em países desenvolvidos.",
+    "relacionados": [
+      "Demografia",
+      "População"
+    ]
+  },
+  {
+    "termo": "Energia Nuclear",
+    "categoria": "Meio Ambiente",
+    "definicao": "Energia liberada pela fissão ou fusão dos núcleos atômicos, usada para gerar eletricidade.",
+    "exemplo": "Usinas nucleares para produção de energia elétrica.",
+    "relacionados": [
+      "Energia",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "termo": "Marketing Digital",
+    "categoria": "Negócios",
+    "definicao": "Conjunto de estratégias para promover produtos e serviços utilizando canais digitais.",
+    "exemplo": "Campanhas em redes sociais para aumentar vendas online.",
+    "relacionados": [
+      "Estratégia Empresarial",
+      "Tecnologia"
+    ]
+  },
+  {
+    "termo": "Inovação",
+    "categoria": "Negócios",
+    "definicao": "Processo de criar novos produtos, serviços ou processos que geram valor.",
+    "exemplo": "Desenvolvimento de um aplicativo que facilita o pagamento por aproximação.",
+    "relacionados": [
+      "Tecnologia",
+      "Estratégia Empresarial"
+    ]
+  },
+  {
+    "termo": "Sistemas de Informação",
+    "categoria": "Tecnologia",
+    "definicao": "Conjunto de componentes que coletam, processam, armazenam e distribuem informações para suporte à decisão.",
+    "exemplo": "ERP usado para gerenciar os recursos de uma empresa.",
+    "relacionados": [
+      "Big Data",
+      "Tecnologia"
+    ]
+  },
+  {
+    "termo": "Responsabilidade Social",
+    "categoria": "Negócios",
+    "definicao": "Compromisso das empresas em atuar de forma ética e sustentável, contribuindo para o desenvolvimento da sociedade.",
+    "exemplo": "Programas de inclusão social e ambiental promovidos por empresas.",
+    "relacionados": [
+      "Sustentabilidade",
+      "Ética"
+    ]
+  },
+  {
+    "termo": "Educação Financeira",
+    "categoria": "Finanças",
+    "definicao": "Conjunto de conhecimentos e habilidades que possibilitam o uso consciente e eficiente dos recursos financeiros.",
+    "exemplo": "Planejar o orçamento pessoal para evitar dívidas e investir melhor.",
+    "relacionados": [
+      "Controle Financeiro",
+      "Investimentos"
+    ]
+  },
+  {
+    "termo": "Capital Humano",
+    "categoria": "Gestão",
+    "definicao": "Conjunto de conhecimentos, habilidades e experiências dos colaboradores de uma empresa.",
+    "exemplo": "Investir em treinamentos para melhorar a produtividade da equipe.",
+    "relacionados": [
+      "Recursos Humanos",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "termo": "Lean Manufacturing",
+    "categoria": "Produção",
+    "definicao": "Sistema de produção que visa eliminar desperdícios e otimizar processos para aumentar a eficiência.",
+    "exemplo": "Reduzir estoques excessivos e agilizar o fluxo de produção.",
+    "relacionados": [
+      "Gestão de Qualidade",
+      "Eficiência Operacional"
+    ]
+  },
+  {
+    "termo": "Benchmarking",
+    "categoria": "Estratégia Empresarial",
+    "definicao": "Processo de comparar produtos, serviços e práticas de uma empresa com as melhores do mercado para aprimoramento.",
+    "exemplo": "Analisar concorrentes para melhorar o atendimento ao cliente.",
+    "relacionados": [
+      "Inovação",
+      "Melhoria Contínua"
+    ]
+  },
+  {
+    "termo": "ROI (Return on Investment)",
+    "categoria": "Finanças",
+    "definicao": "Métrica que mede o retorno financeiro obtido em relação ao investimento realizado.",
+    "exemplo": "Um ROI de 20% significa que para cada R$100 investidos, a empresa ganhou R$20 de lucro.",
+    "relacionados": [
+      "Investimentos",
+      "Finanças"
+    ]
+  },
+  {
+    "termo": "Supply Chain",
+    "categoria": "Logística",
+    "definicao": "Conjunto de processos que envolvem a produção e distribuição de produtos desde a matéria-prima até o consumidor final.",
+    "exemplo": "Gerenciamento eficiente para reduzir custos e melhorar prazos de entrega.",
+    "relacionados": [
+      "Logística",
+      "Lean Manufacturing"
+    ]
+  },
+  {
+    "termo": "Cash Flow (Fluxo de Caixa)",
+    "categoria": "Finanças",
+    "definicao": "Controle das entradas e saídas de dinheiro da empresa para garantir liquidez e planejamento financeiro.",
+    "exemplo": "Analisar o fluxo de caixa mensal para evitar falta de capital.",
+    "relacionados": [
+      "Controle Financeiro",
+      "Planejamento Financeiro"
+    ]
+  },
+  {
+    "termo": "Empreendedorismo",
+    "categoria": "Negócios",
+    "definicao": "Atitude e processo de identificar oportunidades e criar negócios inovadores e lucrativos.",
+    "exemplo": "Criar uma startup que resolve problemas locais com tecnologia.",
+    "relacionados": [
+      "Inovação",
+      "Gestão Empresarial"
+    ]
+  },
+  {
+    "termo": "Custo Fixo",
+    "categoria": "Contabilidade",
+    "definicao": "Despesas que permanecem constantes independentemente do volume de produção ou vendas.",
+    "exemplo": "Aluguel e salários administrativos.",
+    "relacionados": [
+      "Custo Variável",
+      "Contabilidade de Custos"
+    ]
+  },
+  {
+    "termo": "Custo Variável",
+    "categoria": "Contabilidade",
+    "definicao": "Despesas que variam diretamente com o volume de produção ou vendas.",
+    "exemplo": "Matéria-prima, comissão sobre vendas.",
+    "relacionados": [
+      "Custo Fixo",
+      "Contabilidade de Custos"
+    ]
+  },
+  {
+    "termo": "Endividamento",
+    "categoria": "Finanças",
+    "definicao": "Quantidade de dívidas que uma empresa possui em relação ao seu patrimônio e receitas.",
+    "exemplo": "Alta taxa de endividamento pode comprometer a saúde financeira da empresa.",
+    "relacionados": [
+      "Passivo",
+      "Patrimônio Líquido"
+    ]
+  },
+  {
+    "termo": "Benchmark",
+    "categoria": "Gestão",
+    "definicao": "Referência ou padrão usado para comparar desempenho ou qualidade.",
+    "exemplo": "Estabelecer benchmarks para medir produtividade da equipe.",
+    "relacionados": [
+      "Benchmarking",
+      "Melhoria Contínua"
+    ]
+  },
+  {
+    "termo": "Fluxo de Caixa Descontado (FCD)",
+    "categoria": "Finanças",
+    "definicao": "Método de avaliação que estima o valor de um investimento com base nos fluxos de caixa futuros descontados a valor presente.",
+    "exemplo": "Avaliar projetos de investimento com base no FCD para decidir qual é mais rentável.",
+    "relacionados": [
+      "Investimentos",
+      "ROI"
+    ]
+  },
+  {
+    "termo": "Governança Ambiental, Social e Corporativa (ESG)",
+    "categoria": "Sustentabilidade",
+    "definicao": "Critérios para medir a responsabilidade ambiental, social e de governança das empresas.",
+    "exemplo": "Empresa que adota práticas ESG tende a atrair investidores conscientes.",
+    "relacionados": [
+      "Responsabilidade Social",
+      "Governança Corporativa"
+    ]
+  },
+  {
+    "termo": "Índice de Liquidez Corrente",
+    "categoria": "Finanças",
+    "definicao": "Indicador que mede a capacidade da empresa de pagar suas obrigações de curto prazo.",
+    "exemplo": "Liquidez corrente de 2 significa que a empresa tem o dobro de ativos circulantes para pagar suas dívidas.",
+    "relacionados": [
+      "Fluxo de Caixa",
+      "Ativo Circulante"
+    ]
+  },
+  {
+    "termo": "Turnover",
+    "categoria": "Recursos Humanos",
+    "definicao": "Taxa de rotatividade de colaboradores em uma empresa em um determinado período.",
+    "exemplo": "Alta taxa de turnover indica problemas de retenção de talentos.",
+    "relacionados": [
+      "Capital Humano",
+      "Gestão de Pessoas"
+    ]
+  },
+  {
+    "termo": "Valuation",
+    "categoria": "Finanças",
+    "definicao": "Avaliação do valor econômico de uma empresa, geralmente para fins de investimento ou venda.",
+    "exemplo": "Startups buscam valuation para atrair investidores.",
+    "relacionados": [
+      "Investimentos",
+      "Fluxo de Caixa Descontado"
+    ]
+  },
+  {
+    "termo": "Capital de Risco",
+    "categoria": "Investimentos",
+    "definicao": "Investimento em empresas com alto potencial de crescimento, porém com riscos elevados.",
+    "exemplo": "Investidores aportando em startups de tecnologia.",
+    "relacionados": [
+      "Investimentos",
+      "Valuation"
+    ]
+  },
+  {
+    "termo": "Margem de Lucro",
+    "categoria": "Finanças",
+    "definicao": "Percentual que representa o lucro obtido em relação à receita total.",
+    "exemplo": "Margem de lucro de 20% indica que a empresa lucra R$20 para cada R$100 vendidos.",
+    "relacionados": [
+      "Lucro",
+      "Receita"
+    ]
+  },
+  {
+    "termo": "Plano de Contas",
+    "categoria": "Contabilidade",
+    "definicao": "Estrutura que organiza e classifica todas as contas usadas na contabilidade de uma empresa.",
+    "exemplo": "Plano de contas para registrar receitas, despesas e ativos.",
+    "relacionados": [
+      "Contabilidade",
+      "DRE"
+    ]
+  },
+  {
+    "termo": "Balanço Social",
+    "categoria": "Responsabilidade Social",
+    "definicao": "Relatório que evidencia as ações sociais e ambientais realizadas pela empresa.",
+    "exemplo": "Empresa divulga balanço social para mostrar impacto positivo na comunidade.",
+    "relacionados": [
+      "Sustentabilidade",
+      "Governança Corporativa"
+    ]
+  },
+  {
+    "termo": "Análise de Break-even",
+    "categoria": "Finanças",
+    "definicao": "Cálculo do ponto de equilíbrio onde receitas e despesas se igualam, sem lucro ou prejuízo.",
+    "exemplo": "Determinar quantas unidades precisam ser vendidas para cobrir os custos fixos.",
+    "relacionados": [
+      "Custo Fixo",
+      "Margem de Contribuição"
+    ]
+  },
+  {
+    "termo": "Margem de Contribuição",
+    "categoria": "Finanças",
+    "definicao": "Valor que sobra da receita após deduzir os custos variáveis, contribuindo para cobrir custos fixos e lucro.",
+    "exemplo": "Se um produto custa R$50 para produzir e é vendido por R$80, a margem de contribuição é R$30.",
+    "relacionados": [
+      "Custo Variável",
+      "Análise de Break-even"
+    ]
+  },
+  {
+    "termo": "Stakeholders",
+    "categoria": "Gestão",
+    "definicao": "Todas as partes interessadas em uma empresa, incluindo clientes, funcionários, investidores e fornecedores.",
+    "exemplo": "Manter comunicação transparente com stakeholders para fortalecer relacionamentos.",
+    "relacionados": [
+      "Governança Corporativa",
+      "Responsabilidade Social"
+    ]
+  },
+  {
+    "termo": "Ciclo Operacional",
+    "categoria": "Gestão Financeira",
+    "definicao": "Tempo total entre a compra de matérias-primas e o recebimento do pagamento pela venda do produto final.",
+    "exemplo": "Reduzir o ciclo operacional para melhorar o fluxo de caixa.",
+    "relacionados": [
+      "Fluxo de Caixa",
+      "Capital de Giro"
+    ]
+  },
+  {
+    "termo": "Auditoria Interna",
+    "categoria": "Controle",
+    "definicao": "Processo de verificação das operações e controles internos da empresa para garantir conformidade e eficiência.",
+    "exemplo": "Auditoria interna detecta falhas nos processos financeiros.",
+    "relacionados": [
+      "Governança Corporativa",
+      "Compliance"
+    ]
+  },
+  {
+    "termo": "Compliance",
+    "categoria": "Governança",
+    "definicao": "Conjunto de práticas para garantir que a empresa e seus colaboradores sigam leis, normas e políticas internas.",
+    "exemplo": "Implementar um programa de compliance para evitar fraudes.",
+    "relacionados": [
+      "Auditoria Interna",
+      "Ética Empresarial"
+    ]
+  },
+  {
+    "termo": "Capital de Giro Líquido",
+    "categoria": "Finanças",
+    "definicao": "Diferença entre o ativo circulante e o passivo circulante, indicando a liquidez da empresa para suas operações de curto prazo.",
+    "exemplo": "Capital de giro líquido positivo significa que a empresa tem recursos para cobrir suas dívidas imediatas.",
+    "relacionados": [
+      "Capital de Giro",
+      "Liquidez Corrente"
+    ]
+  },
+  {
+    "termo": "Elasticidade de Preço",
+    "categoria": "Economia",
+    "definicao": "Medida que indica a sensibilidade da demanda em relação à variação de preço de um produto ou serviço.",
+    "exemplo": "Se a demanda cai muito com um pequeno aumento de preço, a elasticidade é alta.",
+    "relacionados": [
+      "Preço",
+      "Demanda"
+    ]
+  },
+  {
+    "termo": "Estratégia de Diferenciação",
+    "categoria": "Estratégia Empresarial",
+    "definicao": "Tática para tornar um produto ou serviço único no mercado, agregando valor percebido pelo cliente.",
+    "exemplo": "Empresa que oferece um atendimento exclusivo para se destacar da concorrência.",
+    "relacionados": [
+      "Estratégia de Custos",
+      "Vantagem Competitiva"
+    ]
+  },
+  {
+    "termo": "Fluxo de Caixa Livre",
+    "categoria": "Finanças",
+    "definicao": "Valor que sobra do caixa após a empresa pagar suas despesas operacionais e investimentos em ativos fixos.",
+    "exemplo": "Fluxo de caixa livre positivo indica capacidade de financiar novos projetos ou pagar dividendos.",
+    "relacionados": [
+      "Fluxo de Caixa",
+      "Investimentos"
+    ]
+  },
+  {
+    "termo": "Gestão de Riscos",
+    "categoria": "Gestão",
+    "definicao": "Processo de identificação, análise e mitigação dos riscos que podem impactar os objetivos da empresa.",
+    "exemplo": "Planejar ações para minimizar riscos financeiros e operacionais.",
+    "relacionados": [
+      "Compliance",
+      "Governança Corporativa"
+    ]
+  },
+  {
+    "termo": "Índice de Endividamento",
+    "categoria": "Finanças",
+    "definicao": "Indicador que mostra a proporção das dívidas em relação ao total dos recursos da empresa.",
+    "exemplo": "Índice alto pode indicar risco financeiro elevado.",
+    "relacionados": [
+      "Endividamento",
+      "Passivo"
+    ]
+  },
+  {
+    "termo": "Payback",
+    "categoria": "Investimentos",
+    "definicao": "Período necessário para recuperar o investimento inicial feito em um projeto ou ativo.",
+    "exemplo": "Projeto que custa R$100.000 e gera R$25.000 por ano tem payback de 4 anos.",
+    "relacionados": [
+      "Retorno sobre Investimento",
+      "Fluxo de Caixa"
+    ]
+  },
+  {
+    "termo": "Planejamento Estratégico",
+    "categoria": "Gestão",
+    "definicao": "Processo de definição dos objetivos de longo prazo da empresa e os meios para alcançá-los.",
+    "exemplo": "Definir metas para expansão internacional em 5 anos.",
+    "relacionados": [
+      "Missão",
+      "Visão",
+      "Objetivos"
+    ]
+  },
+  {
+    "termo": "Retorno sobre Investimento (ROI)",
+    "categoria": "Finanças",
+    "definicao": "Métrica que avalia a eficiência de um investimento, mostrando o retorno obtido em relação ao custo.",
+    "exemplo": "ROI de 20% indica que para cada R$100 investidos, houve retorno de R$20.",
+    "relacionados": [
+      "Payback",
+      "Fluxo de Caixa"
+    ]
+  },
+  {
+    "termo": "Segmentação de Mercado",
+    "categoria": "Marketing",
+    "definicao": "Divisão do mercado em grupos de consumidores com necessidades ou características semelhantes.",
+    "exemplo": "Segmentar clientes por faixa etária para campanhas direcionadas.",
+    "relacionados": [
+      "Público-Alvo",
+      "Posicionamento"
+    ]
+  },
+  {
+    "termo": "Vantagem Competitiva",
+    "categoria": "Estratégia Empresarial",
+    "definicao": "Características ou capacidades que permitem a uma empresa superar seus concorrentes.",
+    "exemplo": "Inovação tecnológica que reduz custos de produção.",
+    "relacionados": [
+      "Estratégia de Diferenciação",
+      "Estratégia de Custos"
+    ]
+  },
+  {
+    "termo": "Workflow",
+    "categoria": "Gestão de Processos",
+    "definicao": "Sequência de atividades ou tarefas necessárias para completar um processo dentro da empresa.",
+    "exemplo": "Workflow para aprovação de compras.",
+    "relacionados": [
+      "Automação",
+      "Processos"
+    ]
+  },
+  {
+    "termo": "Z-Score",
+    "categoria": "Finanças",
+    "definicao": "Indicador financeiro usado para prever o risco de falência de uma empresa.",
+    "exemplo": "Z-Score baixo indica maior risco de insolvência.",
+    "relacionados": [
+      "Análise Financeira",
+      "Gestão de Riscos"
+    ]
+  },
+  {
+    "termo": "Economia de Escala",
+    "categoria": "Produção",
+    "definicao": "Redução do custo unitário à medida que a produção aumenta.",
+    "exemplo": "Fabricação em grande quantidade reduz custo por unidade.",
+    "relacionados": [
+      "Eficiência",
+      "Custos Fixos"
+    ]
+  },
+  {
+    "termo": "Crowdfunding",
+    "categoria": "Finanças",
+    "definicao": "Financiamento coletivo onde várias pessoas investem pequenas quantias em um projeto ou empresa.",
+    "exemplo": "Startup arrecadando fundos através de uma plataforma online.",
+    "relacionados": [
+      "Capital de Risco",
+      "Investimentos"
+    ]
+  },
+  {
+    "termo": "Design Thinking",
+    "categoria": "Inovação",
+    "definicao": "Metodologia que busca soluções inovadoras centradas no usuário através de empatia e experimentação.",
+    "exemplo": "Criar um novo produto baseado nas necessidades reais dos clientes.",
+    "relacionados": [
+      "Inovação",
+      "Gestão de Projetos"
+    ]
+  },
+  {
+    "termo": "Escopo",
+    "categoria": "Gestão de Projetos",
+    "definicao": "Definição detalhada do trabalho a ser realizado em um projeto, incluindo objetivos, entregas e limitações.",
+    "exemplo": "Delimitar funcionalidades de um software a ser desenvolvido.",
+    "relacionados": [
+      "Planejamento",
+      "Cronograma"
+    ]
+  },
+  {
+    "termo": "Indicadores de Performance (KPIs)",
+    "categoria": "Gestão",
+    "definicao": "Métricas usadas para avaliar o desempenho de processos, equipes ou projetos em relação a objetivos estabelecidos.",
+    "exemplo": "Taxa de conversão em vendas como KPI de marketing.",
+    "relacionados": [
+      "Metas",
+      "Planejamento Estratégico"
+    ]
+  },
+  {
+    "termo": "Just in Time (JIT)",
+    "categoria": "Gestão da Produção",
+    "definicao": "Sistema de produção que busca reduzir estoques e aumentar a eficiência, produzindo somente o necessário no momento certo.",
+    "exemplo": "Entrega de peças na linha de montagem exatamente quando são necessárias.",
+    "relacionados": [
+      "Lean Manufacturing",
+      "Controle de Estoques"
+    ]
+  },
+  {
+    "termo": "Lean Startup",
+    "categoria": "Inovação",
+    "definicao": "Método para desenvolver negócios e produtos baseado em ciclos rápidos de desenvolvimento e feedback do cliente.",
+    "exemplo": "Lançar um produto mínimo viável para testar aceitação antes de investir pesado.",
+    "relacionados": [
+      "Design Thinking",
+      "Inovação"
+    ]
+  },
+  {
+    "termo": "Matriz BCG",
+    "categoria": "Gestão Estratégica",
+    "definicao": "Ferramenta que classifica os produtos ou unidades de negócio em quatro categorias com base em participação de mercado e crescimento do mercado.",
+    "exemplo": "Classificar um produto como 'estrela' por ter alta participação e crescimento.",
+    "relacionados": [
+      "Portfólio de Produtos",
+      "Planejamento Estratégico"
+    ]
+  },
+  {
+    "termo": "Balanced Scorecard",
+    "categoria": "Gestão Estratégica",
+    "definicao": "Ferramenta de gestão que traduz a visão e estratégia da empresa em um conjunto equilibrado de indicadores de desempenho.",
+    "exemplo": "Medir indicadores financeiros, clientes, processos internos e aprendizado e crescimento.",
+    "relacionados": [
+      "KPIs",
+      "Planejamento Estratégico"
+    ]
+  },
+  {
+    "termo": "Ciclo PDCA",
+    "categoria": "Gestão da Qualidade",
+    "definicao": "Método de gestão para controle e melhoria contínua de processos através das fases Planejar, Executar, Checar e Agir.",
+    "exemplo": "Aplicar PDCA para reduzir defeitos em um processo produtivo.",
+    "relacionados": [
+      "Melhoria Contínua",
+      "Qualidade"
+    ]
+  },
+  {
+    "termo": "Custos Fixos",
+    "categoria": "Contabilidade de Custos",
+    "definicao": "Custos que não variam com o volume de produção ou vendas, permanecendo constantes dentro de certo período.",
+    "exemplo": "Aluguel mensal da fábrica ou salário dos funcionários administrativos.",
+    "relacionados": [
+      "Custos Variáveis",
+      "Margem de Contribuição"
+    ]
+  },
+  {
+    "termo": "Custos Variáveis",
+    "categoria": "Contabilidade de Custos",
+    "definicao": "Custos que variam diretamente com o volume de produção ou vendas.",
+    "exemplo": "Matéria-prima usada para fabricar produtos.",
+    "relacionados": [
+      "Custos Fixos",
+      "Margem de Contribuição"
+    ]
+  },
+  {
+    "termo": "Due Diligence",
+    "categoria": "Finanças",
+    "definicao": "Processo de investigação detalhada para avaliar riscos e oportunidades antes de uma aquisição ou investimento.",
+    "exemplo": "Análise financeira e jurídica antes da compra de uma empresa.",
+    "relacionados": [
+      "Valuation",
+      "Investimentos"
+    ]
+  },
+  {
+    "termo": "Escalabilidade",
+    "categoria": "Gestão de Negócios",
+    "definicao": "Capacidade de um negócio aumentar receita sem aumento proporcional de custos.",
+    "exemplo": "Software que pode ser vendido para mais clientes sem necessidade de aumentar muito a equipe.",
+    "relacionados": [
+      "Crescimento",
+      "Modelos de Negócio"
+    ]
+  },
+  {
+    "termo": "Inovação Disruptiva",
+    "categoria": "Inovação",
+    "definicao": "Inovação que cria um novo mercado e destrói ou transforma o mercado existente.",
+    "exemplo": "O surgimento dos smartphones substituindo os celulares tradicionais.",
+    "relacionados": [
+      "Inovação Incremental",
+      "Transformação Digital"
+    ]
+  },
+  {
+    "termo": "Inovação Incremental",
+    "categoria": "Inovação",
+    "definicao": "Melhorias graduais e contínuas em produtos, serviços ou processos existentes.",
+    "exemplo": "Atualizações regulares de software que melhoram funcionalidades.",
+    "relacionados": [
+      "Inovação Disruptiva",
+      "Melhoria Contínua"
+    ]
+  },
+  {
+    "termo": "Ponto de Equilíbrio",
+    "categoria": "Finanças",
+    "definicao": "Volume de vendas em que as receitas igualam os custos totais, resultando em lucro zero.",
+    "exemplo": "Empresa precisa vender 1.000 unidades para cobrir todos os custos.",
+    "relacionados": [
+      "Margem de Contribuição",
+      "Custos Fixos"
+    ]
+  },
+  {
+    "termo": "Planejamento Sucessório",
+    "categoria": "Gestão de Pessoas",
+    "definicao": "Processo de preparação para a substituição de cargos estratégicos na empresa.",
+    "exemplo": "Identificação e desenvolvimento de futuros líderes dentro da organização.",
+    "relacionados": [
+      "Gestão de Talentos",
+      "Governança Corporativa"
+    ]
+  },
+  {
+    "termo": "Resiliência Organizacional",
+    "categoria": "Gestão",
+    "definicao": "Capacidade da empresa de se adaptar e se recuperar diante de crises e mudanças no mercado.",
+    "exemplo": "Empresa que rapidamente ajusta sua estratégia em resposta a uma crise econômica.",
+    "relacionados": [
+      "Gestão de Riscos",
+      "Inovação"
+    ]
+  },
+  {
+    "termo": "Venture Capital",
+    "categoria": "Investimentos",
+    "definicao": "Investimento de risco em startups com alto potencial de crescimento.",
+    "exemplo": "Fundo investindo em uma startup de tecnologia em fase inicial.",
+    "relacionados": [
+      "Crowdfunding",
+      "Private Equity"
+    ]
+  },
+  {
+    "termo": "Receita",
+    "categoria": "Demonstração de Resultados",
+    "definicao": "Entradas de recursos provenientes da atividade principal da empresa.",
+    "exemplo": "Venda de mercadorias, prestação de serviços.",
+    "relacionados": [
+      "Despesa",
+      "Lucro"
+    ]
+  },
+  {
+    "termo": "Despesa",
+    "categoria": "Demonstração de Resultados",
+    "definicao": "Gastos necessários para a operação da empresa, que não resultam diretamente em geração de receita.",
+    "exemplo": "Salários, aluguel, contas de energia elétrica.",
+    "relacionados": [
+      "Receita",
+      "Lucro"
+    ]
+  },
+  {
+    "termo": "Lucro",
+    "categoria": "Demonstração de Resultados",
+    "definicao": "Resultado positivo obtido quando a receita supera as despesas.",
+    "exemplo": "Receita de R$100.000,00 e despesas de R$60.000,00 resultam em lucro de R$40.000,00.",
+    "relacionados": [
+      "Receita",
+      "Despesa"
+    ]
+  },
+  {
+    "termo": "Prejuízo",
+    "categoria": "Demonstração de Resultados",
+    "definicao": "Resultado negativo quando as despesas superam as receitas.",
+    "exemplo": "Receita de R$50.000,00 e despesas de R$70.000,00 resultam em prejuízo de R$20.000,00.",
+    "relacionados": [
+      "Receita",
+      "Despesa"
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "termo": "Ativo",
+        "categoria": "Balanço Patrimonial",
+        "definicao": "Conjunto de bens e direitos que a empresa possui ou tem a receber.",
+        "exemplo": "Caixa, contas a receber, estoques.",
+        "relacionados": ["Passivo", "Patrimônio Líquido"]
+    },
+    {
+        "termo": "Passivo",
+        "categoria": "Balanço Patrimonial",
+        "definicao": "Obrigações e dívidas que a empresa precisa pagar.",
+        "exemplo": "Fornecedores, empréstimos a pagar.",
+        "relacionados": ["Ativo", "Patrimônio Líquido"]
+    },
+    {
+        "termo": "Patrimônio Líquido",
+        "categoria": "Balanço Patrimonial",
+        "definicao": "Diferença entre o ativo e o passivo; representa o valor pertencente aos acionistas.",
+        "exemplo": "Capital social, reservas de lucros.",
+        "relacionados": ["Ativo", "Passivo"]
+    },
+    {
+        "termo": "Receita",
+        "categoria": "Demonstração de Resultados",
+        "definicao": "Entradas de recursos provenientes da atividade principal da empresa.",
+        "exemplo": "Venda de mercadorias, prestação de serviços.",
+        "relacionados": ["Despesa", "Lucro"]
+    },
+    {
+        "termo": "Despesa",
+        "categoria": "Demonstração de Resultados",
+        "definicao": "Gastos necessários para a operação da empresa, que não resultam diretamente em geração de receita.",
+        "exemplo": "Salários, aluguel, contas de energia elétrica.",
+        "relacionados": ["Receita", "Lucro"]
+    },
+    {
+        "termo": "Lucro",
+        "categoria": "Demonstração de Resultados",
+        "definicao": "Resultado positivo obtido quando a receita supera as despesas.",
+        "exemplo": "Receita de R$100.000,00 e despesas de R$60.000,00 resultam em lucro de R$40.000,00.",
+        "relacionados": ["Receita", "Despesa"]
+    },
+    {
+        "termo": "Prejuízo",
+        "categoria": "Demonstração de Resultados",
+        "definicao": "Resultado negativo quando as despesas superam as receitas.",
+        "exemplo": "Receita de R$50.000,00 e despesas de R$70.000,00 resultam em prejuízo de R$20.000,00.",
+        "relacionados": ["Receita", "Despesa"]
+    }
+]
